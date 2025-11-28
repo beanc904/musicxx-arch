@@ -11,8 +11,6 @@ Musicxx 是一款基于 Flutter 的跨平台音视频播放器，简洁、开源
 
 ### 从 AUR 安装（推荐）
 
-如果本仓库已上传至 AUR，可直接使用：
-
 ```bash
 paru -S musicxx-bin
 ```
