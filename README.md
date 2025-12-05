@@ -52,3 +52,5 @@ makepkg -si
 
 * 上游项目：[coolight7/musicxx](https://github.com/coolight7/musicxx)
 * Arch 打包维护者：[beanc904/musicxx-arch](https://github.com/beanc904/musicxx-arch)
+
+如果觉得不错的话，请给上游作者点个 star 吧。
